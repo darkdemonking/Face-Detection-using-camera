@@ -1,7 +1,6 @@
 __author__ = 'Vaibhav Punia'
 
 import cv2
-from PIL import ImageFont, ImageDraw, Image
 
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 
